@@ -12,8 +12,9 @@ body {
     width: 100%;
       }
 
-.container{
-    cursor: pointer;}
+.container {
+    cursor: pointer;
+}
 
 .pic1:hover {transform: scale(1.01);}
 .pic2:hover {transform: scale(1.01);}
@@ -72,5 +73,5 @@ body {
 
 .footer {
     text-align: center;
-margin: 10px 0px ;
+margin: 15px 0px ;
 }
