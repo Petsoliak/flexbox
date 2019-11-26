@@ -1,0 +1,76 @@
+body {
+    background-color: #e2e7ec;
+}
+*{
+    transition: all .1s ease-in;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+      }
+
+.container{
+    cursor: pointer;}
+
+.pic1:hover {transform: scale(1.01);}
+.pic2:hover {transform: scale(1.01);}
+.pic3:hover {transform: scale(1.01);}
+.pic4:hover {transform: scale(1.01);}
+.pic5:hover {transform: scale(1.01);}
+
+
+.pic1 {
+    margin-right: 15px;
+    margin-top: 40px;
+    width: 739px;
+    height: 539px;
+    }
+    .pic1 img {border-radius: 10px;}
+
+.pic2 {
+    margin-top: 40px;
+    width: 360px;
+    height: 537px;
+}
+
+.pic2 img {
+    border-radius: 10px;
+}
+
+.pic3 {
+    margin: 20px 10px;
+    width: 359px;
+    height: 539px;
+}
+
+.pic3 img {
+    border-radius: 10px;
+}
+
+.pic4 {
+    margin: 20px 10px;
+    width: 359px;
+    height: 540px;
+}
+
+.pic4 img {
+    border-radius: 10px;
+}
+
+.pic5 {
+    margin: 20px 10px;
+    width: 359px;
+    height: 540px;
+}
+
+.pic5 img {
+    border-radius: 10px;
+}
+
+.footer {
+    text-align: center;
+margin: 10px 0px ;
+}
